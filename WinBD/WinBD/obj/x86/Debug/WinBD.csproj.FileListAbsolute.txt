@@ -1,0 +1,12 @@
+C:\Users\getha\Desktop\Практика\WinBD\WinBD\bin\x86\Debug\WinBD.exe.config
+C:\Users\getha\Desktop\Практика\WinBD\WinBD\bin\x86\Debug\WinBD.exe
+C:\Users\getha\Desktop\Практика\WinBD\WinBD\bin\x86\Debug\WinBD.pdb
+C:\Users\getha\Desktop\Практика\WinBD\WinBD\obj\x86\Debug\WinBD.csproj.AssemblyReference.cache
+C:\Users\getha\Desktop\Практика\WinBD\WinBD\obj\x86\Debug\WinBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\getha\Desktop\Практика\WinBD\WinBD\obj\x86\Debug\WinBD.Form1.resources
+C:\Users\getha\Desktop\Практика\WinBD\WinBD\obj\x86\Debug\WinBD.Properties.Resources.resources
+C:\Users\getha\Desktop\Практика\WinBD\WinBD\obj\x86\Debug\WinBD.csproj.GenerateResource.cache
+C:\Users\getha\Desktop\Практика\WinBD\WinBD\obj\x86\Debug\WinBD.csproj.CoreCompileInputs.cache
+C:\Users\getha\Desktop\Практика\WinBD\WinBD\obj\x86\Debug\WinBD.exe
+C:\Users\getha\Desktop\Практика\WinBD\WinBD\obj\x86\Debug\WinBD.pdb
+C:\Users\getha\Desktop\Практика\WinBD\WinBD\obj\x86\Debug\WinBD.Form2.resources
