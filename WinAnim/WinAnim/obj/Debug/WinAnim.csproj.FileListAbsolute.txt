@@ -1,0 +1,11 @@
+C:\Users\Студент\Desktop\Практика\Day_2\WinAnim\WinAnim\bin\Debug\WinAnim.exe.config
+C:\Users\Студент\Desktop\Практика\Day_2\WinAnim\WinAnim\bin\Debug\WinAnim.exe
+C:\Users\Студент\Desktop\Практика\Day_2\WinAnim\WinAnim\bin\Debug\WinAnim.pdb
+C:\Users\Студент\Desktop\Практика\Day_2\WinAnim\WinAnim\obj\Debug\WinAnim.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Практика\Day_2\WinAnim\WinAnim\obj\Debug\WinAnim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Desktop\Практика\Day_2\WinAnim\WinAnim\obj\Debug\WinAnim.Form1.resources
+C:\Users\Студент\Desktop\Практика\Day_2\WinAnim\WinAnim\obj\Debug\WinAnim.Properties.Resources.resources
+C:\Users\Студент\Desktop\Практика\Day_2\WinAnim\WinAnim\obj\Debug\WinAnim.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Практика\Day_2\WinAnim\WinAnim\obj\Debug\WinAnim.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Практика\Day_2\WinAnim\WinAnim\obj\Debug\WinAnim.exe
+C:\Users\Студент\Desktop\Практика\Day_2\WinAnim\WinAnim\obj\Debug\WinAnim.pdb
