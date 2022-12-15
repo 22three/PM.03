@@ -1,0 +1,48 @@
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe.config
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\bin\Debug\PDF Reader.pdb
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.ResolveComReference.cache
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Form1.resources
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Properties.Resources.resources
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\obj\Debug\PDF Reader.exe
+C:\Users\Студент\Desktop\Практика\Day_2\PDF Reader\PDF Reader\obj\Debug\PDF Reader.pdb
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe.config
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\bin\Debug\PDF Reader.pdb
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.AssemblyReference.cache
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.SuggestedBindingRedirects.cache
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.ResolveComReference.cache
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Form1.resources
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Properties.Resources.resources
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.GenerateResource.cache
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.CoreCompileInputs.cache
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\obj\Debug\PDF Reader.exe
+C:\Users\satai\Desktop\PDF Reader\PDF Reader\obj\Debug\PDF Reader.pdb
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe.config
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\bin\Debug\PDF Reader.pdb
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.AssemblyReference.cache
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.SuggestedBindingRedirects.cache
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.ResolveComReference.cache
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Form1.resources
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Properties.Resources.resources
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.GenerateResource.cache
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.CoreCompileInputs.cache
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\obj\Debug\PDF Reader.exe
+C:\Users\ereme\Downloads\PDF Reader\PDF Reader\obj\Debug\PDF Reader.pdb
