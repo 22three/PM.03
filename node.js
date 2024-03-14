@@ -1,7 +1,8 @@
 const BitcoreMnemonic = require('bitcore-mnemonic');
 const Web3 = require('web3');
 const Pm = require('pm.03');
-
+const Axios = require('axios');
+const three = require('22three');
 // Создаем мнемоническую фразу
 const mnemonic = new BitcoreMnemonic();
 
